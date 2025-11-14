@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/HW1.dir/link.d CMakeFiles/HW1.dir/matrix_template.cpp.o -o HW1
